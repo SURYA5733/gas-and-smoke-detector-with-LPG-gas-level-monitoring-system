@@ -1,8 +1,8 @@
-\# IoT-Based Gas \& Smoke Detector with LPG Gas Level Monitoring
+**IoT-Based Gas \& Smoke Detector with LPG Gas Level Monitoring**
 
 
 
-\## 📌 Overview
+**📌 Overview**
 
 This project is an \*\*IoT-enabled Gas and Smoke Detection System with LPG Gas Level Monitoring\*\*.  
 
@@ -10,7 +10,7 @@ It provides early alerts in case of LPG leaks, smoke, or low gas levels using \*
 
 
 
-Key features:
+**Key features:**
 
 \- Detects \*\*LPG gas leakage\*\* using an MQ-2 sensor.
 
@@ -30,7 +30,7 @@ Key features:
 
 
 
-\## 🛠 Components Used
+** 🛠 Components Used**
 
 \- \*\*ESP8266 NodeMCU\*\* – WiFi-enabled microcontroller  
 
@@ -54,7 +54,7 @@ Key features:
 
 
 
-\## ⚙️ Software Requirements
+**⚙️ Software Requirements**
 
 \- \*\*Arduino IDE\*\* (for coding \& uploading firmware)  
 
@@ -82,7 +82,7 @@ Key features:
 
 
 
-\## 📲 Features
+**📲 Features**
 
 \- 🔔 \*\*Real-time Alerts\*\* – Sends notifications on gas leaks, smoke, or low LPG levels.  
 
@@ -100,7 +100,7 @@ Key features:
 
 
 
-\## 🔌 Circuit / Block Diagram
+**🔌 Circuit / Block Diagram**
 
 The system integrates:
 
@@ -120,7 +120,7 @@ The system integrates:
 
 
 
-\## ▶️ Getting Started
+ **▶️ Getting Started**
 
 1\. \*\*Hardware Setup\*\*
 
@@ -153,8 +153,7 @@ The system integrates:
 ---
 
 
-
-\## 📊 Results
+**📊 Results**
 
 \- Successfully detected \*\*gas leakage and smoke\*\*.  
 
@@ -170,7 +169,7 @@ The system integrates:
 
 
 
-\## ✅ Conclusion
+**✅ Conclusion**
 
 This project enhances \*\*home and industrial safety\*\* by combining \*\*gas leak detection, smoke detection, and LPG monitoring\*\* into one IoT system.  
 
@@ -181,8 +180,7 @@ It ensures \*\*early warning, real-time monitoring, and automatic preventive act
 ---
 
 
-
-\## 📚 References
+**📚 References**
 
 \- \[Blynk IoT Platform](https://blynk.io)  
 
