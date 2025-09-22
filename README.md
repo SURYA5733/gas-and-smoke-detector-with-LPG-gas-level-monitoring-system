@@ -30,7 +30,7 @@ It provides early alerts in case of LPG leaks, smoke, or low gas levels using **
 
 
 
-** 🛠 Components Used**
+**🛠 Components Used**
 
 \- **ESP8266 NodeMCU** – WiFi-enabled microcontroller  
 
